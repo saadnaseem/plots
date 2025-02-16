@@ -1,2 +1,2 @@
 # plots
-Code for plots related to a biology lab 
+Code for plots relevant to a biology lab 
