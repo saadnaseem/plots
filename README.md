@@ -7,6 +7,9 @@ code for plots relevant to a biology lab
 
 This repository contains code to create a volcano plot from proteomics data. The plot compares Sample A vs. Sample B to show the differential expression of proteins between the two conditions.
 
+https://pubs.rsc.org/en/content/articlelanding/2020/mo/d0mo00087f
+Guide for protein fold change and p-value calculation for non-experts in proteomics, 
+
 Overview
 	•	What It Does:
 Generates a volcano plot. One quadrant shows proteins that are up-regulated, and another shows proteins that are down-regulated between the two conditions.
