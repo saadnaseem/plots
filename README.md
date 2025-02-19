@@ -24,7 +24,7 @@ This plot type is common in differential expression analysis.
 	•	Provided Data:
  
 A dummy Excel file is included to run the notebook and test the code. 
-(2_sampleA_sampleB.xlsx)
+(samplefile2.xlsx)
 
 How to Use
 	1.	Clone the Repository:
@@ -33,6 +33,10 @@ git clone https://github.com/saadnaseem/plots.git
 
 	2.	Open the Notebook:
 Use Jupyter Notebook or Google Colab.
+
+ptests.ipynb takes in raw data(samplefile2.xlsx) to calculate t-tests, p-value and adjusted- pvalue(BH). It outputs samplefile3output.xlsx which has the p values. 
+
+volcanoplot.ipynb uses samplefile3output.xlsx as an input to make volcano plots. 
 
 	3.	Run the Code:
 Load the dummy Excel file and execute the notebook to see the volcano plot.
